@@ -1,0 +1,32 @@
+How to Submit Critical Thinking Assignments
+
+When submitting your Critical Thinking Exercise assignments, you need to include both a SQL script file and a video. Optionally, you might also want to include your original database for later assignments. Here is what I would like to see:
+
+Requirements for SQL script files:
+- SQL script files should have a .sql file extension. (You can create this in VS Code and open it in SQLite Studio to run it, or create it in SQLite Studio and save it from there.)
+- All SQL statements should be included. I would like to be able to run your script to re-create your work.
+- Comments should be included to indicate what you are trying to accomplish and what database(s) you are using.
+
+Requirements for videos:
+- You may use your preferred screen capture software (e.g. Panopto, Zoom, Screencast.com)
+- Narrate with audio if possible.
+- Briefly show me how your script works and tell me what you are trying to accomplish.
+
+NOTES:
+- You can upload an .mp4 file (or .mov if you are on a Mac).
+- If you are using PANOPTO, you will need to SHARE the video. To see how to set sharing, view Using Panopto to create video.
+- If you upload your video to a public site like YouTube, please set the viewing options to Unlisted or equivalent and provide an appropriate sharable link.
+
+Requirements for optional database files:
+- SQL database files should use a .db file extension. (.sqlite or .sqlite3 are also acceptable).
+
+Submitting multiple attachments in Canvas:
+- If you have a .sql file and a video URL:
+    - OPTION 1) Submit your .sql file using the File Upload option. Paste the video URL into the comments.
+    - OPTION 2) Submit twice. First submit the .sql file with File Upload, then submit the video URL separately.
+
+If you have a .sql file and a .mp4 file:
+- Use the File Upload option and + Add Another File
+
+Still have questions?
+Just ask!
