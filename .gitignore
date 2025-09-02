@@ -1,0 +1,50 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+
+# Audio files
+*.mp3
+*.wav
+*.aac
+
+# Large binary files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Database temporary files
+*.db-journal
+*.sqlite-journal
+*.db-shm
+*.db-wal
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal notes (optional - remove if you want to commit notes)
+**/notes.txt
+**/personal_notes.md
